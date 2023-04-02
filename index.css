@@ -316,7 +316,7 @@ select {
   list-style: none;
   padding: 0;
   margin: 0;
-  background: hsl(var(--clr-white) / 0.95);
+  background: hsl(var(--clr-white) / 0.15);
   backdrop-filter: blur(1.5rem);
 }
 
